@@ -365,7 +365,6 @@ h2.title{font-size:clamp(2.4rem,4.6vw,4rem);max-width:16ch}
   .cta .actions{width:100%}
   .cta .actions .btn{flex:1 1 100%}
   .topbar .ids{gap:12px;font-size:.8rem}
-  .topbar .ids span:last-child{display:none}
 }
 @media (prefers-reduced-motion:reduce){
   html{scroll-behavior:auto}
